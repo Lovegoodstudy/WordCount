@@ -1,0 +1,4 @@
+C:\Users\Lovegood\Desktop\dev\src\file.c, 字符数49
+C:\Users\Lovegood\Desktop\dev\src\file.c, 单词数8
+C:\Users\Lovegood\Desktop\dev\src\file.c, 行数9
+C:\Users\Lovegood\Desktop\dev\src\file.c, 代码行/空行/注释行: 3/5/1
